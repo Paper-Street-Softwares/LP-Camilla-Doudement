@@ -123,7 +123,7 @@ const content = {
       ctaButtonTextResponsive: "Contato",
     },
     hero: {
-      miniTag: "ADVOGADA DE FAMÍLIA EM BRASÍLIA - DF",
+      miniTag: "ADVOGADA DE FAMÍLIA EM VALPARAÍSO - GO",
       title: (
         <h1 className="mb-[16px]">
           Você vai esperar a justiça
@@ -223,8 +223,8 @@ const content = {
       },
       card2: {
         img: featuresImg2,
-        title: "Pensão",
-        subtitle: "Acordo ou revisão de valores com base na lei.",
+        title: "Pensão Alimentícia",
+        subtitle: "Fixação ou revisão de valores com base na lei.",
         description: (
           <div>
             A_Definir
@@ -260,7 +260,8 @@ const content = {
       card3: {
         img: featuresImg3,
         title: "Execução e Alimentos",
-        subtitle: "Cobrança legal de pensões não pagas corretamente.",
+        subtitle:
+          "Cobrança de pensões não pagas pelo rito da prisão civil ou penhora.",
         description: (
           <div>
             A_Definir <br />
