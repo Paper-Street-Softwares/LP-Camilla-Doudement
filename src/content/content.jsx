@@ -395,36 +395,42 @@ const content = {
       miniTag: "QUEM É A DRA. CAMYLLA DOUDEMENT",
       title: "Minha trajetória",
       subtitle:
-        "Atuação sensível e firme para quem enfrenta desafios no direito de família.",
+        "Advogada especialista em Direito de Família, com atuação firme e estratégica na fixação e execução de pensão alimentícia.",
       labelInstagram: "Siga-me no Instagram",
       labelFacebook: "Siga-me no Facebook",
       labelLinkedin: "Siga-me no LinkedIn",
       labelX: "Siga-me no X",
       paragraph: (
         <div>
-          Ao longo da minha jornada na advocacia, escolhi caminhar ao lado de
-          quem mais precisa de amparo jurídico e humano. Cada caso que chega até
-          mim carrega histórias de luta, amor e esperança.
+          Minha trajetória é marcada pelo compromisso com mães solo que
+          enfrentam a difícil missão de cuidar dos filhos sozinhas e, ao mesmo
+          tempo, garantir os direitos deles perante a Justiça.
         </div>
       ),
       buttonModalLabelAbout: "Continuar lendo",
       modal: (
         <p>
-          Ao longo da minha jornada na advocacia, escolhi caminhar ao lado de
-          quem mais precisa de amparo jurídico e humano. Cada caso que chega até
-          mim carrega histórias de luta, amor e esperança.
+          Minha trajetória é marcada pelo compromisso com mães solo que
+          enfrentam a difícil missão de cuidar dos filhos sozinhas e, ao mesmo
+          tempo, garantir os direitos deles perante a Justiça.
           <br />
           <br />
-          Tenho me dedicado especialmente a apoiar mães solo que enfrentam
-          dificuldades com pensão alimentícia, oferecendo orientação e ação com
-          empatia e firmeza.
+          Atendo com sensibilidade e escuta ativa, porque sei que por trás de
+          cada processo existe uma história de luta, cansaço e, muitas vezes, de
+          abandono.
           <br />
           <br />
-          Também atuo fortemente nas execuções de pensão, seja por meio da
-          prisão civil ou da penhora, buscando garantir que os direitos dos
-          filhos sejam respeitados com responsabilidade.
+          Quando o assunto é garantir o sustento e a dignidade das crianças,
+          atuo com foco, técnica e estratégia para alcançar resultados reais e
+          eficazes.
           <br />
           <br />
+          Aqui, você não será apenas mais um caso. Você será acolhida, orientada
+          e defendida com responsabilidade e força.
+          <br />
+          <br />
+           Se você é mãe solo e precisa de apoio jurídico nesse momento
+          delicado, pode contar comigo.
         </p>
       ),
       ctaButtonAriaLabel: "Botão para entrar em contato",
