@@ -259,7 +259,7 @@ const content = {
       },
       card3: {
         img: featuresImg3,
-        title: "Execução e Alimentos",
+        title: "Execução de Alimentos",
         subtitle:
           "Cobrança de pensões não pagas pelo rito da prisão civil ou penhora.",
         description: (
