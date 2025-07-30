@@ -56,7 +56,7 @@ export const infos = {
   name: "Dra. Camylla Doudement",
   email: "contato", // Email desejado pelo cliente
   emailSecundario: "A_Definir", // Email desejado pelo cliente
-  domain: "www.camylladoudementadvogada.com.br", // Sem "www"
+  domain: "camylladoudementadvogada.com.br", // Sem "www"
   phone: {
     ddd: "61",
     firstPart: "99399", // Apenas os 5 primeiros números (incluindo o 9)
