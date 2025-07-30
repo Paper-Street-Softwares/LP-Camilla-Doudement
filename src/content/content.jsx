@@ -127,7 +127,7 @@ const content = {
       title: (
         <h1 className="mb-[16px]">
           Você vai esperar a justiça
-          <span className="text-primary"> falhar?</span>
+          <span className="text-red-400"> falhar?</span>
         </h1>
       ),
       subtitle:
